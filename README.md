@@ -1,5 +1,5 @@
 # Alpha
-Team slogan 
+Alpha
 
 ## Members:
 * Member 1
