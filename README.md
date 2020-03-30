@@ -1,4 +1,4 @@
-# Team name
+# Alpha
 Team slogan 
 
 ## Members:
