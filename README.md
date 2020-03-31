@@ -1,5 +1,5 @@
 # Alpha
-Team slogan 
+Alpha
 
 ## Members:
 * Меркишев Александр Сергеевич
